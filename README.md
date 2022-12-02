@@ -1,2 +1,2 @@
-# Pr-cticas-microcontroladores
+# Practicas-microcontroladores
 Prácticas desarrolladas durante el semestre 
