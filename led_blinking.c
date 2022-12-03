@@ -9,7 +9,7 @@
 int main(void)
 {
 DDRA = 0b00000001; //indica que el puerto es de entrada o salida 
-PORTA = 0b00000001;
+PORTA = 0b00000000;
 while(1)
     {
     
